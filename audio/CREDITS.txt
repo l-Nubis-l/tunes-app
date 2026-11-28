@@ -1,0 +1,10 @@
+Piano samples (public/audio/piano/*.mp3)
+
+Source: Salamander Grand Piano V2 (Yamaha C5), as hosted for Tone.js
+  https://tonejs.github.io/audio/salamander/  (repository: https://github.com/Tonejs/audio, folder "salamander")
+Author: Alexander Holm
+License: Creative Commons Attribution 3.0 (CC-BY 3.0), https://creativecommons.org/licenses/by/3.0/
+  (license stated in the README file of the source folder)
+
+Changes made: 16 samples (every 3 semitones, F#2 to D#6) were converted to mono, trimmed to 2.2 seconds with a
+0.5 second fade-out, and re-encoded as 96 kbps MP3. File names are MIDI note numbers (60 = C4).
